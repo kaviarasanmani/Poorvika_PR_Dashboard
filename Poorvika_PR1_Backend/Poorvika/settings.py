@@ -78,6 +78,7 @@ INSTALLED_APPS = [
     'store_detials',
     'user',
     'Edition',
+    'BOM',
 ]
 
 MIDDLEWARE = [
